@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: grey;
+    text-size-adjust: larger;
+}
+.profile-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    justify-content: left;
+
+}
+.h1{
+   text-decoration: solid;
+    background-color: gray;
+    text-align: center;
+    display: inline-block;
+}
+h3 p{
+text-decoration: bold;
+}
